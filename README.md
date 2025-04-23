@@ -49,14 +49,14 @@ AtliQ Technologies is a hardware manufacturing company that produces and sells t
 
 ---
 
-## 📎 Deliverables
+##  Deliverables
 - Excel reports
 - Business insights and interpretations
 - Cleaned datasets and dynamic models
 
 ---
 
-## 🚀 Goal of the Project
+##  Goal of the Project
 To empower AtliQ’s leadership and sales teams with data-backed insights for better strategic decisions, using Excel as a powerful analytics tool.
 
 ---
