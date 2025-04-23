@@ -1,29 +1,73 @@
-# AtliQ_Sales_Finanancial_Analytics
-AtliQ Technologies - Sales and Financial Data Analytics using Advanced Ms Excel.
+# AtliQ Technologies – Sales and Financial Data Analytics (Advanced MS Excel)
 
-AtliQ Business Model:
-https://www.atliq.com/ AtliQ is a Hardware Producing company who sells their products to customers such as Best Buy, Croma, Staples, Amazon. These customers further sell to end consumers. 
-AtliQ has dedicated Maufacturing facility, ,then they transport them to a warehouse/distribution centres , ship to different countries, from there to customers and thereby to end cosumers.
+## 🏢 About AtliQ Technologies
 
-Types of Customer Channels:
-1.Retailers-
-(i) Brick and Mortar: Croma, best Buy, Staples.
-(ii). Online PLatforms: Amazon, Flipkart
+🔗 **Website**: [www.atliq.com](https://www.atliq.com/)  
+AtliQ Technologies is a hardware manufacturing company that produces and sells tech products through various channels across the globe.
 
-2.Direct Channels-
-(i)AtliQ e store
-(ii) AtliQ exclusive
+### 🌍 Business Model Overview
 
-3.Distributor for particular countries-
-(i) Neptune---->to----> Local stores
+1. **Manufacturing Facility** →  
+2. **Warehouse / Distribution Centers** →  
+3. **International Shipping** →  
+4. **Customer Channels** →  
+5. **End Consumers**
 
-Requirements:
-##Sales Analytics-
-(i)Build reports for customer performance 
-(ii)Market perfomrance reports
+---
 
-## Financial Analytics
-(i) Profit and Loss statement reports
+##  Types of Customer Channels
+
+### 1. **Retailers**
+- **Brick & Mortar**: Croma, Best Buy, Staples  
+- **Online Platforms**: Amazon, Flipkart
+
+### 2. **Direct Channels**
+- **AtliQ E-Store**
+- **AtliQ Exclusive Stores**
+
+### 3. **Distributors (Country-Specific)**
+- **Example**: Neptune → Local Stores
+
+---
+
+## 📊 Project Requirements
+
+###  **Sales Analytics**
+-  Build reports for **Customer Performance**
+-  Create **Market Performance** reports
+
+### **Financial Analytics**
+-  Develop **Profit and Loss Statement** reports
+
+---
+
+##  Tools Used
+- ✅ Microsoft Excel (Advanced Level)
+- ✅ Pivot Tables, Conditional Formatting, Charts
+- ✅ Data Cleaning and Transformation
+- ✅ Financial Calculations and KPIs
+
+---
+
+## 📎 Deliverables
+- Excel reports
+- Business insights and interpretations
+- Cleaned datasets and dynamic models
+
+---
+
+## 🚀 Goal of the Project
+To empower AtliQ’s leadership and sales teams with data-backed insights for better strategic decisions, using Excel as a powerful analytics tool.
+
+---
+
+## 📬 Contact
+
+Feel free to connect or reach out if you'd like to collaborate or ask questions!
+
+---
+
+
 
 
 
