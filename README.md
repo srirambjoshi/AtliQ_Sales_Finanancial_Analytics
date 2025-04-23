@@ -7,11 +7,7 @@ AtliQ Technologies is a hardware manufacturing company that produces and sells t
 
 ### 🌍 Business Model Overview
 
-1. **Manufacturing Facility** →  
-2. **Warehouse / Distribution Centers** →  
-3. **International Shipping** →  
-4. **Customer Channels** →  
-5. **End Consumers**
+**Manufacturing Facility** →   **Warehouse / Distribution Centers** →   **International Shipping** →   **Customer Channels** →  **End Consumers**
 
 ---
 
